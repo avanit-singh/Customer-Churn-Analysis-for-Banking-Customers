@@ -1,3 +1,5 @@
+![Analysis](https://github.com/avanit-singh/Customer-Churn-Analysis-for-Banking-Customers/actions/workflows/run_analysis.yml/badge.svg)
+
 # Customer Churn Analysis — Banking Domain
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
